@@ -1,0 +1,11 @@
+{
+  "name": "servidor-node-http",
+  "version": "1.0.0",
+  "description": "Servidor Node.js com múltiplas rotas e arquivos HTML",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Lucas Antonio Domingos Ruiz",
+  "license": "ISC"
+}
